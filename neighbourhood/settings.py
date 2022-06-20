@@ -1,5 +1,5 @@
 """
-Django settings for neighbourhood project.
+
 
 
 
