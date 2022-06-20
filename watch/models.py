@@ -4,7 +4,7 @@ from cloudinary.models import CloudinaryField
 from tinymce.models import HTMLField
 from django.db.models import Q
 
-# Create your models here.
+
 
 # NeighbourHood Model
 class NeighbourHood(models.Model):
