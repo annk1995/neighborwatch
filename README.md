@@ -1,4 +1,4 @@
-# NEIGHBOURHOOD WATCH
+# NEIGHBOR WATCH
 
 Welcome to the **Neighbourhood Watch** Python web application.
 
