@@ -81,11 +81,11 @@ The following parties greatly contributed to the development of **Instagram Clon
 
 ## Contact Information
 
-For any suggestions, reporting of bugs or improvements, reach me through my email address - jonahhchacha@gmail.com
+For any suggestions, reporting of bugs or improvements, reach me through my email address - kabuikariuki052@gmail.com
 
 ## Copyright and License Information
 
-Copyright (c) 2021 Jonathan Mwita Chacha
+Copyright (c) 2022 kabui kariuki
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
