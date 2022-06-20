@@ -31,9 +31,8 @@ class NeighbourHood(models.Model):
         
     @classmethod
     def find_neighborhood(cls, neighborhood_id):
-        """
-        A method that finds a neighbourhood using its id
-        """
+        
+      
         return cls.objects.filter(id=neighborhood_id) 
     
     @classmethod
