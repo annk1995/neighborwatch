@@ -72,9 +72,9 @@ The following parties greatly contributed to the development of **Instagram Clon
 
 - Moringa School LMS
 - [Google Fonts](https://fonts.google.com/specimen/Ephesis#pairings)
-- [ColorHunt](https://colorhunt.co/)
+
 - [StackOverflow](https://stackoverflow.com/)
-- [Font Awesome](tawesome.com/?utm_source=font_awesome_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=download_modal)
+
 - [MIT License](https://opensource.org/licenses/MIT)
 
 <hr>
