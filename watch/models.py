@@ -26,9 +26,7 @@ class NeighbourHood(models.Model):
         self.save()
         
     def delete_neighborhood(self):
-        """
-        A method that deletes a neighbourhood
-        """
+        
         self.delete()    
         
     @classmethod
