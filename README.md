@@ -1,6 +1,6 @@
 # NEIGHBOR WATCH
 
-Welcome to the **Neighbourhood Watch** Python web application.
+Welcome to the **Neighbor Watch** Python web application.
 
 <hr>
 
