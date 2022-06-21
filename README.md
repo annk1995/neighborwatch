@@ -45,7 +45,7 @@ https://linda-jirani.herokuapp.com/
 
 **Neighbor Watch** is a web application which can be accessed by a device of choice with internet capabilities. No setup is required since it is in the form of a website. The application is built to be responsive across all devices with different media queries such as desktops, tablets and mobile phones.
 
-To add Police Authority and Health Services information, log in to the admin dashboard using 'chacha' as the username and '6775' 
+To add Police Authority and Health Services information, log in to the admin dashboard using
 
 <hr>
 
