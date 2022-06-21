@@ -7,7 +7,7 @@ Welcome to the **Neighbor Watch** Python web application.
 ## About the Project
 
 
-**Neighbourhood Watch** project is a web application that is created using a Python backend and its purpose is to keep a user on the know regarding with activities going on in their neighbourhood. This project is created to demonstrate the proficiency in Python Language and Django Framework.
+**Neighbourhood Watch** project is a web application that is created using a Python backend and its purpose is to keep a user on the know regarding with activities going on in their neighbourhood. This project is created to demonstrate the proficiency in Python Language and Django Framework
 
 <hr>
 
@@ -43,7 +43,7 @@ https://linda-jirani.herokuapp.com/
 
 ## Setup Instructions
 
-**Neighbourhood Watch** is a web application which can be accessed by a device of choice with internet capabilities. No setup is required since it is in the form of a website. The application is built to be responsive across all devices with different media queries such as desktops, tablets and mobile phones.
+**Neighbor Watch** is a web application which can be accessed by a device of choice with internet capabilities. No setup is required since it is in the form of a website. The application is built to be responsive across all devices with different media queries such as desktops, tablets and mobile phones.
 
 To add Police Authority and Health Services information, log in to the admin dashboard using 'chacha' as the username and '6775' as the password.
 
